@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+	<HTML lang="es">
+<head>
+
+	<title> Mi primera pagina web OH YES!</title>
+        <meta charset= "uft-8">
+        <meta name= "description" content="Este documento es HTML5">
+        <meta name= "Keywords" content="HTML, CSS, JavaScript">
+        <link rel="stylesheet" href="misestilos.css">
+
+
+</head>
+<body>
+
+ <h1>
+  AQUI LOS CARNIVOROS
+ </h1>
+
+  <main>
+         <section>
+               <article>
+                Esta es la hiena un aminal conocido por su fama de carroñero aunque no es asi
+               </article>
+                             </article> 
+          <aside>
+           Cita del articulo 1
+           Cita del articulo 2
+          </aside>
+ 
+<img src="imagenes/hiena.jpg" width="560" height="550" alt="hiena">
+
+
+  </main>
+ <footer>
+      &copy; Derechos reservados!!
+ </footer
+</body>
+</html>
